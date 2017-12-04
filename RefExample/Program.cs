@@ -4,6 +4,9 @@ namespace GenericMethodExample
 {
     class Program
     {
+        /// <summary>
+        /// 
+        /// </summary>
         static void Main()
         {
             Dummy dummy = new Dummy { Name = "Aziz" };
